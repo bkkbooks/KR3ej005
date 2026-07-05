@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej005_000.yaml, hash: 'sha256:3054aada10e138a3768d7eb73eb4451132476accd4fe540d8b8aad6dca978a0d'}
+  - {seq: 0, filename: KR3ej005_000.yaml, hash: 'sha256:4cb7b550d0a6806e0c1672303a707b159cc78c68c5a754a14fade89b5b4b883c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej005_000.markers.yaml, hash: 'sha256:60b01538bc55618806390e681cdff2d11c024ad5c4fc538c8b6c87ff4d91c948'}
+  - {seq: 0, role: markers, filename: assets/KR3ej005_000.markers.yaml, hash: 'sha256:bca164165649b02123b4e2d4f0cc77c31f7af3ff80adcd6fb132b824ab498e57'}
 table_of_contents:
 - ref:
     seq: 0
@@ -611,7 +611,4 @@ table_of_contents:
   label: 稀痘法
   type: section
   level: 1
-hash: sha256:fb0727a491df96500e87bfb9f1f064760a0c21299f8783059a9c975fe6fc31ce
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:db8d80e1ce79ee558a6370c2737ae1e775ea554bc5a84d6c495601d773a6ed6f
