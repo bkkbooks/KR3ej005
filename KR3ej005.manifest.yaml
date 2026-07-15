@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej005/v1
 canonical_location: https://kanripo.org/bkk/KR3ej005/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 保幼新編
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej005_000.yaml, hash: 'sha256:4cb7b550d0a6806e0c1672303a707b159cc78c68c5a754a14fade89b5b4b883c'}
+  - {seq: 0, filename: KR3ej005_000.yaml, hash: 'sha256:ebe63f9afae2b4abe80952749a28ed29479a8b5c6dc390882d311385d427d5a9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej005_000.markers.yaml, hash: 'sha256:bca164165649b02123b4e2d4f0cc77c31f7af3ff80adcd6fb132b824ab498e57'}
+  - {seq: 0, role: markers, filename: assets/KR3ej005_000.markers.yaml, hash: 'sha256:afc2f091e31cd1fd5d9174ddec0458a703e4c7ca8db18484414d3663aab8a9a3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -611,4 +611,7 @@ table_of_contents:
   label: 稀痘法
   type: section
   level: 1
-hash: sha256:db8d80e1ce79ee558a6370c2737ae1e775ea554bc5a84d6c495601d773a6ed6f
+hash: sha256:c82854a3c0176b8d5bf1fdf90a3fba27309c49e3d38e98c1884536b1ef426177
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
