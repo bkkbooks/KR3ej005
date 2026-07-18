@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej005_000-jc.yaml, hash: 'sha256:4cb7b550d0a6806e0c1672303a707b159cc78c68c5a754a14fade89b5b4b883c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej005_000-jc.markers.yaml, hash: 'sha256:efddc5f32a15b8d9e9685b2bfee708f2a06a6eae10c55764b598e9786c05dce9'}
+  - {seq: 0, role: markers, filename: assets/KR3ej005_000-jc.markers.yaml, hash: 'sha256:d8eb3231568718fec738fb159cb145ddd134d99e352a908baa7be1ca5aa8640c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -611,4 +611,4 @@ table_of_contents:
   label: 稀痘法
   type: section
   level: 1
-hash: sha256:6023b63f2c4b2f432f5082d76d8adbfe1bb4c8bf56abd8186ed1cbfbe90bb0f3
+hash: sha256:11ebaba0d2a4821acc5b4dd2d7df863bb35975c39ad92cafca3d9ac6fbf886e3
